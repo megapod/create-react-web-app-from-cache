@@ -2,16 +2,16 @@
 extract react app template from a local "cache" file.  
 removed default JSX and css from App component.  
 
-# dependencies
+## dependencies
 linux,  
 7z  
 
-# Usage
+## Usage
 update:  
 python3 react_new.py  
 
 create new project:  
 python3 react_new.py appFolderName  
 
-# result
+## result
 new project boilerplate in 3 seconds.
